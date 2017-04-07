@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490866344 source:c:\users\41010-11-08\desktop\projs\n_queens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"n_queen.h"
+
+1490862092 c:\users\41010-11-08\desktop\projs\n_queens\n_queen.h
+	<stdbool.h>
+
+1490866427 source:c:\users\41010-11-08\desktop\projs\n_queens\n_queen.c
+	<stdlib.h>
+	<stddef.h>
+	"n_queen.h"
+	<stdio.h>
+
